@@ -50,19 +50,19 @@ Used to produce families of related objects without specifying their concrete cl
 
 ### Builder
 
-
+Used to construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 
 ### Factory Method
 
-
+Provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
 ### Prototype
 
-
+Used to copy existing objects without making your code dependent on their classes.
 
 ### Singleton
 
-
+It is used to you ensure that a class has only one instance, while providing a global access point to this instance.
 
 ## Structural
 
