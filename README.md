@@ -80,7 +80,7 @@ Used to compose objects into tree structures and then work with these structures
 
 ### Decorator
 
-
+Used to attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 
 ### Facade
 
