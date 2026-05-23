@@ -68,11 +68,11 @@ It is used to you ensure that a class has only one instance, while providing a g
 
 ### Adapter
 
-
+It allows objects with incompatible interfaces to collaborate.
 
 ### Bridge
 
-
+Used to split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
 
 ### Composite
 
