@@ -76,7 +76,7 @@ Used to split a large class or a set of closely related classes into two separat
 
 ### Composite
 
-
+Used to compose objects into tree structures and then work with these structures as if they were individual objects.
 
 ### Decorator
 
