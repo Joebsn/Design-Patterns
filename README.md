@@ -21,15 +21,15 @@ Used to you reduce chaotic dependencies between objects. The pattern restricts d
 
 ### Memento
 
-
+Used to save and restore the previous state of an object without revealing the details of its implementation.
 
 ### Observer
 
-
+Used to define a subscription mechanism to notify multiple objects about any events that happen to the object they're observing.
 
 ### State
 
-
+Used to let an object alter its behavior when its internal state changes. It appears as if the object changed its class.
 
 ### Strategy
 
