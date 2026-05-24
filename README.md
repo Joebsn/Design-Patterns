@@ -16,6 +16,7 @@ Used to you traverse elements of a collection without exposing its underlying re
 
 ### Mediator
 
+Used to you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
 
 
 ### Memento
